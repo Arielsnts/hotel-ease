@@ -38,7 +38,7 @@ export default function RootLayout({
         </header>
 
         <main
-          className="flex justify-center flex-1 bg-fixed bg-cover bg-center bg-no-repeat mt-[80px]"
+          className="flex justify-center flex-1 bg-fixed bg-cover bg-center bg-no-repeat mt-[80px] mx-2"
           style={{
             backgroundImage: "url('/fundo-hotel1.jpg')",
           }}
@@ -51,7 +51,7 @@ export default function RootLayout({
 
           <nav className="flex gap-6 text-lg">
             <a
-              href="www.linkedin.com/in/ariel-santos-souza-998b8b31a"
+              href="https://www.linkedin.com/in/ariel-santos-souza-998b8b31a"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#A69581] transition-transform transform hover:scale-110"
